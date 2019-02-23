@@ -63,7 +63,7 @@
                             <outlet property="delegate" destination="4xx-Qx-S34" id="wuW-Io-p2w"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="EDB-B0-ISg">
+                    <navigationItem key="navigationItem" title="github.com/SF18AS01-" id="EDB-B0-ISg">
                         <barButtonItem key="rightBarButtonItem" systemItem="refresh" id="S1u-3r-xOi"/>
                     </navigationItem>
                 </tableViewController>
